@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on **some ideas for personal projects**.<br>
 - 🌱 I’m currently learning more about **DevOps and mobile development**.<br>
-- 👯 I’m looking for **an end-of-study internship (PFE) starting in January 2025**.<br>
+- 🎓 I’m looking for **an end-of-study internship (PFE) starting in January 2025**.<br>
 - 💬 Ask me about **full-stack development, Spring Boot, React.js, and DevOps practices**.<br>
 - 😄 Pronouns: **He/Him**<br>
 - ⚡ Fun fact: **When I’m not immersed in code, you’ll probably find me watching or playing football—balancing my love for technology with my passion for the game!**
